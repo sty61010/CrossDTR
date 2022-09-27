@@ -4,11 +4,11 @@
 
 <!-- {%youtube _5kscaGVDu0 %} -->
 <!-- [![Watch the video](https://img.youtube.com/vi/_5kscaGVDu0/default.jpg)](https://youtu.be/_5kscaGVDu0) -->
-[<img src="https://i.ytimg.com/vi/_5kscaGVDu0/maxresdefault.jpg" width="100%">](https://www.youtube.com/watch?v=_5kscaGVDu0 "Now in Android: 55")
+
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/_5kscaGVDu0" title="CrossDTR: Cross-view and Depth-guided Transformers for 3D Object Detection" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 <!-- [Direct Link to video](https://youtu.be/_5kscaGVDu0) -->
 
-
+[<img src="https://i.ytimg.com/vi/_5kscaGVDu0/maxresdefault.jpg" width="100%">](https://www.youtube.com/watch?v=_5kscaGVDu0 "Now in Android: 55")
 ## News
 - [2022/09/28] CrossDTR is released on arxiv.
 
@@ -20,11 +20,15 @@ To achieve accurate 3D object detection at a low cost for autonomous driving, ma
 
 ## Visualization
 ### Camera View
-![](https://i.imgur.com/9oVaxg6.jpg)
-
+<!-- ![](https://i.imgur.com/9oVaxg6.jpg) -->
+<!-- ![](https://i.imgur.com/FHspPqt.gif) -->
+![](https://i.imgur.com/2btgS60.gif)
 
 ### Bird Eye View
-![](https://i.imgur.com/PeAAw8P.gif)
+<!-- ![width="50%"](https://i.imgur.com/PeAAw8P.gif) -->
+<!-- ![](https://i.imgur.com/HkpF552.gif) -->
+<!-- ![](https://i.imgur.com/8ZNHHuR.gif) -->
+![](https://i.imgur.com/BxQ1YAu.gif)
 
 ## Getting Started
 - The code is coming soon.
