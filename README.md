@@ -23,15 +23,16 @@ To achieve accurate 3D object detection at a low cost for autonomous driving, ma
 <!-- ![](https://i.imgur.com/9oVaxg6.jpg) -->
 <!-- ![](https://i.imgur.com/FHspPqt.gif) -->
 <!-- ![](https://i.imgur.com/2btgS60.gif) -->
-![](https://i.imgur.com/bvOaCCj.gif)
-
+<!-- ![](https://i.imgur.com/bvOaCCj.gif) -->
+![Camera View](figs/ours_camera.gif)
 
 ### Bird Eye View
 <!-- ![width="50%"](https://i.imgur.com/PeAAw8P.gif) -->
 <!-- ![](https://i.imgur.com/HkpF552.gif) -->
 <!-- ![](https://i.imgur.com/8ZNHHuR.gif) -->
 <!-- ![](https://i.imgur.com/BxQ1YAu.gif) -->
-![](https://i.imgur.com/IbEpxN5.gif)
+<!-- ![](https://i.imgur.com/IbEpxN5.gif) -->
+![Camera View](figs/BEV.gif)
 
 ## Getting Started
 - The code is coming soon.
