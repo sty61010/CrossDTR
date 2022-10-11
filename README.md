@@ -1,6 +1,5 @@
 # CrossDTR: Cross-view and Depth-guided Transformers for 3D Object Detection 
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2209.13507)
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sty61010/CrossDTR)
 
 ## Demo Video
