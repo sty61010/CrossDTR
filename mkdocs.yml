@@ -1,0 +1,10 @@
+site_name: CrossDTR
+site_description: 'Project Page of CrossDTR'
+site_author: 'George Tseng'
+docs_dir: docs/
+repo_name: 'sty61010/CrossDTR'
+repo_url: 'https://github.com/sty61010/CrossDTR'
+nav:
+    - Home: index.md
+theme:
+  name: 'material'
