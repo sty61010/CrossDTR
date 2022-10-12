@@ -3,8 +3,6 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sty61010/CrossDTR)
 
 ## Demo Video
-
-
 <!-- {%youtube _5kscaGVDu0 %} -->
 <!-- [![Watch the video](https://img.youtube.com/vi/_5kscaGVDu0/default.jpg)](https://youtu.be/_5kscaGVDu0) -->
 
