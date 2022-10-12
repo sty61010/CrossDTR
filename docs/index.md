@@ -5,13 +5,7 @@
 ## Demo Video
 
 
-<!-- {%youtube _5kscaGVDu0 %} -->
-<!-- [![Watch the video](https://img.youtube.com/vi/_5kscaGVDu0/default.jpg)](https://youtu.be/_5kscaGVDu0) -->
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/_5kscaGVDu0" title="CrossDTR: Cross-view and Depth-guided Transformers for 3D Object Detection" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
-<!-- [Direct Link to video](https://youtu.be/_5kscaGVDu0) -->
-
-<!-- [<img src="https://i.ytimg.com/vi/_5kscaGVDu0/maxresdefault.jpg" width="100%">](https://www.youtube.com/watch?v=_5kscaGVDu0 "Now in Android: 55") -->
 ## News
 - [2022/10/11] CrossDTR is updated the second version on arxiv.
 - [2022/09/28] CrossDTR is released on arxiv.
