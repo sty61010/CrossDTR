@@ -9,6 +9,7 @@
 <iframe width="100%" height="600" src="https://www.youtube.com/embed/RZFhqkC_xoA" title="CrossDTR: Cross-view and Depth-guided Transformers for 3D Object Detection" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## News
+- [2023/1/17] CrossDTR is accepted by The 40th IEEE International Conference on Robotics and Automation (ICRA 2023)
 - [2022/10/11] CrossDTR is updated the second version on arxiv.
 - [2022/09/28] CrossDTR is released on arxiv.
 

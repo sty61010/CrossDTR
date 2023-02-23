@@ -16,6 +16,7 @@
 [<img src="https://i.ytimg.com/vi/RZFhqkC_xoA/maxresdefault.jpg" width="100%">](https://www.youtube.com/watch?v=RZFhqkC_xoA "Now in Android: 55")
 
 ## News
+- [2023/1/17] CrossDTR is accepted by The 40th IEEE International Conference on Robotics and Automation (ICRA 2023)
 - [2022/10/11] CrossDTR is updated the second version on arxiv.
 - [2022/09/28] CrossDTR is released on arxiv.
 
